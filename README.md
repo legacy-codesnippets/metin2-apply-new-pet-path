@@ -59,7 +59,3 @@ else if (__IsNPCRace(race))
 
 - Elitepvpers Post: [C++ Client: Apply new pet path for new pets](https://www.elitepvpers.com/forum/metin2-pserver-guides-strategies/3851887-c-client-apply-new-pet-path-new-pets.html)
 - Autor: Mr. Avenue ([weitere Releases & How-To's](http://www.elitepvpers.com/forum/blogs/4818277-mr-avenue/15723-releases-how-tos-von-mr-avenue.html))
-
-## Lizenz
-
-Nur für private Projekte und Bildungszwecke. Keine offizielle Lizenz enthalten.
